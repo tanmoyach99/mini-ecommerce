@@ -1,0 +1,38 @@
+.product {
+    margin: 10px 0;
+    padding: 10px 0;
+    border-bottom: 1px solid black
+}
+
+.product-name {
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.description {
+    color: #333;
+}
+
+.price {
+    color: goldenrod;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+.cart-button {
+    background: #762918;
+    color: white;
+    padding: 8px 19px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.cart-button:hover {
+    background: white;
+    color: #762918;
+    border: 1px solid #762918
+}

@@ -1,0 +1,38 @@
+.header {
+    background: rgba(33, 32, 33, 0.933);
+
+}
+
+.logo {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 23px;
+    width: 70%;
+    color: white;
+
+    margin: 0 60px;
+}
+
+.mainNav {
+    display: inline-block;
+
+
+}
+
+.mainNavItems {
+    display: inline-block;
+    text-align: right;
+    /* width: calc(100%-90px) */
+}
+
+.mainNavItem {
+    list-style: none;
+    display: inline-block;
+}
+
+.mainNavItem a {
+    text-decoration: none;
+    color: white;
+    padding: 0 15px;
+    text-transform: uppercase;
+}

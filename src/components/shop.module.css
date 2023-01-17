@@ -1,0 +1,15 @@
+.shop {
+    width: calc(100%-400px);
+    margin: 10px 200px;
+    background: #fff;
+    box-shadow: 12px lightgray;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.product {
+
+    margin: 20px auto;
+
+
+}
